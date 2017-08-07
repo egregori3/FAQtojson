@@ -1,0 +1,100 @@
+What are the admission criteria for the OMS CS degree program?
+Preferred qualifications for admitted OMS CS students are an undergraduate degree in computer science or related field
+(typically mathematics, computer engineering or electrical engineering) from an accredited institution with a cumulative GPA
+of 3.0 or higher. Applicants who do not meet these criteria will be evaluated on a case-by-case basis; significant professional
+or other work experience with supporting recommendations may qualify as an adequate substitute for the appropriate
+academic credentials, however work experience will not take the place of an undergraduate degree. Georgia Tech will not
+admit applicants into the OMS CS degree program without the minimum qualifications for success. The Georgia Tech
+minimum criteria used in determining each applicant's eligibility for consideration shall include:
+Evidence of award of a bachelor's degree or its equivalent (prior to matriculation) from a recognized institution, demonstrated
+academic excellence, and evidence of preparation in their chosen field sufficient to ensure successful graduate study; and
+For international applicants, satisfactory scores on the Test of English as a Foreign Language (TOEFL).
+I don’t have the academic credentials for full admission now, but I would like to work toward that. What advice do you have?
+The best advice is to take (and pass) courses in computer science from an accredited institution. If you don’t have a
+computing background, passing these courses will present its own challenges and give you a preview of what the OMS CS
+curriculum will be like. If you have a computing background (either academically or professionally) and just need to plug a
+few holes, such courses are a great way to do it. All applicants to the OMS CS or other graduate degree program must meet
+the Georgia Tech minimum admission criteria (see above), however admission is not guaranteed for those who meet the
+minimum criteria.
+If I meet the admission criteria, am I automatically admitted?
+No applicant is automatically admitted. All applications are reviewed by a faculty committee to ensure that those admitted
+can succeed in the program. Applicants who are selected for admission will be conditionally admitted into the degree
+program and must pass their first two OMS CS foundational courses with a grade of B or better to be fully admitted. Students
+do not need to take these foundational courses before registering for elective courses, however we recommend students take
+at least one foundational course per semester in which they are enrolled until they are fully admitted to Georgia Tech.
+What are the foundational courses?
+They are indicated in the course listing on the Program Information page of this website.
+What kind of proof of U.S. citizenship is required?
+For more information on accepted proof of citizenship, please visit the Georgia Tech graduate admissions website.
+I’m not a U.S. citizen and/or don’t live in the United States. May I still apply?
+Yes, subject to U.S. export control policy.
+How does the admissions process work?
+Prospective students will have to furnish materials commonly required for graduate admissions (prior degrees, transcripts,
+etc.). For full information about application requirements, please visit the Program Information page of this website.
+Do applicants need to take the GRE?
+No.
+When can I apply?
+Application periods, including deadlines, will be announced on the OMSCS website under the Program Information page.
+You can also receive application information by joining the OMS CS mailing list.
+How do I apply?
+First, review the information on the Program Information page, which explains the relevant dates, costs and student
+information necessary for application. During application windows, a link to the OMS CS application site will be posted on
+the Program Information page.
+If my country’s primary language is English, do I still have to provide a TOEFL score?
+Exceptions are given to the applicants from countries where English is the SOLE OFFICIAL language of instruction
+(Australia, Bahamas, Barbados, Canada-except Québec province, England, Ghana, Ireland, Jamaica, Kenya, New Zealand,
+Nigeria, Scotland, St. Vincent and the Grenadines, Singapore, Trinidad, Tobago, Uganda and Wales). An applicant is exempt
+from TOEFL only if they are a naturalized citizen, a Green Card holder or have spent at least one year in residence and
+enrolled at a U.S. college or university.
+Please visit the Georgia Tech Catalog - TOEFL for International Students page for further information regarding TOEFL
+requirements.
+Can I submit my TOEFL score after the application process ends?
+No. TOEFL scores are due upon completion of your application.
+Lawful Presence
+Under Policy 4.1.6, the lawful presence of any student applying to an institution must be verified before a final offer of
+admission can be extended. This policy applies to any student admitted for the Georgia Tech Fall 2011 semester or any
+semester thereafter. If the student will remain living outside of the U.S. and will be enrolling only in distance education
+courses, then it is not necessary to verify lawful presence. International students residing outside the United States do not
+need to submit proof of lawful presence. All other applicants must submit proof of lawful presence. Please visit the Lawful
+Presence page of our website for a complete list of acceptable lawful presence documents.
+What is meant by official or unofficial transcripts? When can I send them?
+Official transcripts can be delivered in several ways. Most common are those delivered directly to Georgia Tech from your
+academic institution. Some institutions also provide certified PDFs to alumni for use in graduate applications, as well as
+sealed, physical transcripts. If you are accepted to OMS CS, you will be asked to verify your unofficial transcript provided at
+the time of application with an official copy through one of these methods.
+I am an international student. Do I need to have my transcripts translated or converted?
+You will be asked to provide an unofficial English translation of your transcript AND native language transcripts upon
+application. If your undergraduate institution does not grade on a 4.0 scale, you do NOT need to convert your GPA. The
+Office of Graduate Studies does not accept self-converted GPA's and will do their own conversion.
+How many recommenders will I need? What is the process?
+Applicants must procure recommendations from three individuals. As part of the application, applicants will provide their
+recommenders' email addresses. Those individuals will be contacted through email and provided instructions on how to
+submit their recommendations online. A physical letter will not be required.
+How do I provide criminal and academic misconduct history?
+On the OMS CS application, you will be asked to report your own history to be verified by Georgia Tech's Office of
+Graduate Admissions.
+Is there a cap on admissions?
+There is no hard cap on admissions, however Georgia Tech and Udacity are controlling enrollments until the necessary
+infrastructure is in place to deliver a high-quality, supported degree program to enrolled students. The inaugural admissions
+class for Spring 2014 included about 400 students, and this number will scale up gradually over time.
+When will the program start and run until? What’s the academic calendar and schedule for the program?
+All relevant dates are maintained on the Program Information page.
+What is the curriculum, and how does it compare to the curriculum for the residential degree?
+The curriculum in the pilot OMS CS will represent a subset of the on-campus curriculum, allowing for a full MS in computer
+science but with only some of the specializations available in the on-campus program. The OMS CS curriculum will expand
+as more courses come online.
+I don’t have a formal education. Do I still qualify for the program?
+Georgia Tech grants graduate admission only to applicants who have a bachelor’s degree or its equivalent prior to
+matriculation.
+May I take OMS courses for college credit without being enrolled in the degree program?
+No, Georgia Tech does not currently offer OMS courses for credit to students not enrolled in the degree program.
+I’m not interested in the degree program, credentials or credit, but I would like to take the courses for free. Is this
+possible?
+Yes, the OMS courses are available for free on the Udacity website. These free courses do not carry college credit and offer
+limited academic support.
+Can this degree program be audited if I already have an MS CS degree?
+Not at first. We will provide additional program tracks following successful launch of the degree program, including possibly
+an audit track.
+Will the degree I receive from the OMS CS program be the same as the on-campus MS in Computer Science or will my degree say “Online”?
+Your diploma will read "Master of Science in Computer Science," exactly the same as those of on-campus graduates. There
+will be no "online" designation for the degrees of OMS CS graduates
